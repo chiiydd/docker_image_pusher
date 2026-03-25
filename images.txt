@@ -6,4 +6,4 @@
 # vllm/vllm-openai:v0.6.3
 nvidia/cuda:11.3.1-cudnn8-devel-ubuntu20.04
 nvidia/cuda:12.8.0-devel-ubuntu22.04   
-kindest/node
+kindest/node:v1.35.0
