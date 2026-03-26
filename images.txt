@@ -8,5 +8,9 @@
 #nvidia/cuda:12.8.0-devel-ubuntu22.04   
 #kindest/node:v1.35.0
 #kindest/node:v1.31.0
-kindest/node:v1.28.0
-
+#kindest/node:v1.28.0
+rancher/klipper-helm:v0.9.14-build20260210
+rancher/local-path-provisioner:v0.0.34
+projecthami/hami:v2.8.0 
+liangjw/kube-webhook-certgen:v1.1.1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-scheduler:v1.29.0
